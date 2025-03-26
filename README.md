@@ -45,4 +45,5 @@ A REST API for managing todo items with secure JWT authentication and comprehens
 Default authentication test user:
 
 Username: admin
+
 Password: password
